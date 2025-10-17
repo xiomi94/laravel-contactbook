@@ -40,6 +40,11 @@ nav a {
   transition: background-color 0.3s;
 }
 
+.add-contact-button {
+  text-align:center;
+  margin-top: 20px;
+}
+
 .btn:hover {
   background-color: #007c8b;
 }

@@ -30,7 +30,7 @@
         @endforeach
     </ul>
 
-    <div style="text-align:center; margin-top: 20px;">
+    <div class="add-contact-button">
         <a href="{{ route('contacts.create') }}">
             <button type="submit" class="btn btn-primary">Añadir contacto</button>
         </a>
