@@ -17,10 +17,10 @@ This Github project is an application to learn Laravel with Eloquent as ORM and 
 cd C:\laragon\www
 
 # Clone the repository
-git clone https://github.com/username/my-laravel-project.git
+git clone https://github.com/xiomi94/laravel-contactbook.git
 
 # Enter the project folder
-cd my-laravel-project
+cd contactbook
 
 ## Run project
 php artisan serve
